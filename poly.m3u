@@ -55,3 +55,5 @@ http://stream.tvcdn.net/spor/sports-tv.m3u8
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:-1  tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
+https://raw.githubusercontent.com/rideordie16/YouTube/main/spor/aspor.m3u8
